@@ -1,0 +1,163 @@
+.firstcharacter{float:left;color:#27ae60;font-size:75px;line-height:60px;padding-top:4px;padding-right:8px;padding-left:3px }.post-body h1,.post-body h2,.post-body h3,.post-body h4,.post-body h5,.post-body h6{margin-bottom:15px;color:#2c3e50 }blockquote{font-style:italic;color:#888;border-left:5px solid #27ae60;margin-left:0;padding:10px 15px }blockquote:before{content:&#39;\f10d&#39;;display:inline-block;font-family:FontAwesome;font-style:normal;font-weight:400;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin-right:10px;color:#888 }blockquote:after{content:&#39;\f10e&#39;;display:inline-block;font-family:FontAwesome;font-style:normal;font-weight:400;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin-left:10px;color:#888 }.button{background-color:#2c3e50;float:left;padding:5px 12px;margin:5px;color:#fff;text-align:center;border:0;cursor:pointer;border-radius:3px;display:block;text-decoration:none;font-weight:400;transition:all .3s ease-out !important;-webkit-transition:all .3s ease-out !important }a.button{color:#fff }.button:hover{background-color:#27ae60;color:#fff }.button.small{font-size:12px;padding:5px 12px }.button.medium{font-size:16px;padding:6px 15px }.button.large{font-size:18px;padding:8px 18px }.small-button{width:100%;overflow:hidden;clear:both }.medium-button{width:100%;overflow:hidden;clear:both }.large-button{width:100%;overflow:hidden;clear:both }.demo:before{content:&quot;\f06e&quot;;margin-right:5px;display:inline-block;font-family:FontAwesome;font-style:normal;font-weight:400;line-height:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale }.download:before{content:&quot;\f019&quot;;margin-right:5px;display:inline-block;font-family:FontAwesome;font-style:normal;font-weight:400;line-height:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale }.buy:before{content:&quot;\f09d&quot;;margin-right:5px;display:inline-block;font-family:FontAwesome;font-style:normal;font-weight:400;line-height:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale }.visit:before{content:&quot;\f14c&quot;;margin-right:5px;display:inline-block;font-family:FontAwesome;font-style:normal;font-weight:400;line-height:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale }.widget .post-body ul,.widget .post-body ol{line-height:1.5;font-weight:400 }.widget .post-body li{margin:5px 0;padding:0;line-height:1.5 }.post-body ul li:before{content:&quot;\f105&quot;;margin-right:5px;font-family:fontawesome }pre{font-family:Monaco, &quot;Andale Mono&quot;, &quot;Courier New&quot;, Courier, monospace;background-color:#2c3e50;background-image:-webkit-linear-gradient(rgba(0, 0, 0, 0.05) 50%, transparent 50%, transparent);background-image:-moz-linear-gradient(rgba(0, 0, 0, 0.05) 50%, transparent 50%, transparent);background-image:-ms-linear-gradient(rgba(0, 0, 0, 0.05) 50%, transparent 50%, transparent);background-image:-o-linear-gradient(rgba(0, 0, 0, 0.05) 50%, transparent 50%, transparent);background-image:linear-gradient(rgba(0, 0, 0, 0.05) 50%, transparent 50%, transparent);-webkit-background-size:100% 50px;-moz-background-size:100% 50px;background-size:100% 50px;line-height:25px;color:#f1f1f1;position:relative;padding:0 7px;margin:15px 0 10px;overflow:hidden;word-wrap:normal;white-space:pre;position:relative }pre:before{content:&#39;Code&#39;;display:block;background:#F7F7F7;margin-left:-7px;margin-right:-7px;color:#2c3e50;padding-left:7px;font-weight:400;font-size:14px }pre code,pre .line-number{display:block }pre .line-number a{color:#27ae60;opacity:0.6 }pre .line-number span{display:block;float:left;clear:both;width:20px;text-align:center;margin-left:-7px;margin-right:7px }pre .line-number span:nth-child(odd){background-color:rgba(0, 0, 0, 0.11) }pre .line-number span:nth-child(even){background-color:rgba(255, 255, 255, 0.05) }pre .cl{display:block;clear:both }#contact{background-color:#fff;margin:30px 0 !important }#contact .contact-form-widget{max-width:100% !important }#contact .contact-form-name,#contact .contact-form-email,#contact .contact-form-email-message{background-color:#FFF;border:1px solid #eee;border-radius:3px;padding:10px;margin-bottom:10px !important;max-width:100% !important }#contact .contact-form-name{width:47.7%;height:50px }#contact .contact-form-email{width:49.7%;height:50px }#contact .contact-form-email-message{height:150px }#contact .contact-form-button-submit{max-width:100%;width:100%;z-index:0;margin:4px 0 0;padding:10px !important;text-align:center;cursor:pointer;background:#27ae60;border:0;height:auto;-webkit-border-radius:2px;-moz-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;border-radius:2px;text-transform:uppercase;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-o-transition:all .2s ease-out;-ms-transition:all .2s ease-out;transition:all .2s ease-out;color:#FFF }#contact .contact-form-button-submit:hover{background:#2c3e50 }#contact .contact-form-email:focus,#contact .contact-form-name:focus,#contact .contact-form-email-message:focus{box-shadow:none !important }.alert-message{position:relative;display:block;background-color:#FAFAFA;padding:20px;margin:20px 0;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;color:#2f3239;border:1px solid }.alert-message p{margin:0 !important;padding:0;line-height:22px;font-size:13px;color:#2f3239 }.alert-message span{font-size:14px !important }.alert-message i{font-size:16px;line-height:20px }.alert-message.success{background-color:#f1f9f7;border-color:#e0f1e9;color:#1d9d74 }.alert-message.success a,.alert-message.success span{color:#1d9d74 }.alert-message.alert{background-color:#DAEFFF;border-color:#8ED2FF;color:#378FFF }.alert-message.alert a,.alert-message.alert span{color:#378FFF }.alert-message.warning{background-color:#fcf8e3;border-color:#faebcc;color:#8a6d3b }.alert-message.warning a,.alert-message.warning span{color:#8a6d3b }.alert-message.error{background-color:#FFD7D2;border-color:#FF9494;color:#F55D5D }.alert-message.error a,.alert-message.error span{color:#F55D5D }.fa-check-circle:before{content:&quot;\f058&quot;}.fa-info-circle:before{content:&quot;\f05a&quot;}.fa-exclamation-triangle:before{content:&quot;\f071&quot;}.fa-exclamation-circle:before{content:&quot;\f06a&quot;}.post-table table{border-collapse:collapse;width:100% }.post-table th{background-color:#eee;font-weight:bold }.post-table th,.post-table td{border:0.125em solid #333;line-height:1.5;padding:0.75em;text-align:left }@media (max-width: 30em){.post-table thead tr{position:absolute;top:-9999em;left:-9999em }.post-table tr{border:0.125em solid #333;border-bottom:0 }.post-table tr + tr{margin-top:1.5em }.post-table tr,.post-table td{display:block }.post-table td{border:none;border-bottom:0.125em solid #333;padding-left:50% }.post-table td:before{content:attr(data-label);display:inline-block;font-weight:bold;line-height:1.5;margin-left:-100%;width:100% }}@media (max-width: 20em){.post-table td{padding-left:0.75em }.post-table td:before{display:block;margin-bottom:0.75em;margin-left:0 }}.FollowByEmail {clear: both;}.widget .post-body ol {padding: 0 0 0 15px;}.post-body ul li {list-style: none;}
+
+  .code { overflow:auto;width:auto;height:320px; font-family: &quot;Consolas&quot;, &quot;Courier New&quot;, Courier, mono, serif; color:#848176; margin : 15px 35px 15px 15px; padding : 10px 10px 10px 35px; clear : both; list-style-type : none; background : #000000 ; border : 1px solid #000000; border-left:20px solid #ccc; -webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition-duration:all .3s ease-in-out;transition:all .3s ease-in-out;-webkit-border-radius:3px;-moz-border--moz-border-radius: 23px 20px 20px 20px;border-radius: 23px 20px 20px } .code:hover{ color:#FEF9BF; border : 1px solid #000; border-left:20px solid #ccc; -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, .3); -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, .3); box-shadow: 0px 0px 10px rgba(0, 0, 0, .3); box-shadow: 10px 10px 5px #888888; }
+  
+  /*---- Night Mode/Dark Mode Feature - By MegaBDwap ----*/   
+.modedark {  
+    background: linear-gradient(to right, #eb3349 40%, #f45c43); /*Background color of icon*/ 
+    float: left;  
+    bottom: 0;					/*Change this for position*/ 
+    z-index:999 ;
+    position: fixed;  
+    opacity:0.7            /*Opacity Degree Of Icon*/   
+}  
+  
+.modedark svg {  
+    width: 24px;  
+    height: 24px;  
+    vertical-align: -5px;  
+    background-repeat: no-repeat!important;  
+    content: &#39;&#39;  
+}  
+  
+.modedark svg path {  
+    fill: #fff  
+}  
+  
+.modedark .check:checked~.NavMenu {  
+    opacity: 1;  
+    visibility: visible;  
+    top: 45px;  
+    min-width: 200px;  
+    transition: all .3s ease;  
+    z-index: 2  
+}  
+  
+.iconmode {  
+    cursor: pointer;  
+    display: block;  
+    padding: 8px;  
+    background-position: center;  
+    transition: all .5s linear  
+}  
+  
+.iconmode:hover {  
+    border-radius: 100px;  
+    background: rgba(0, 0, 0, .2) radial-gradient(circle, transparent 2%, rgba(0, 0, 0, .2) 2%) center/15000%  
+}  
+  
+.check {  
+    display: none  
+}  
+  
+.modedark .iconmode .openmode {  
+    display: block  
+}  
+  
+.modedark .iconmode .closemode {  
+    display: none  
+}  
+  
+.modedark .check:checked~.iconmode .openmode {  
+    display: none  
+}  
+  
+.modedark .check:checked~.iconmode .closemode {  
+    display: block  
+}  
+  
+/*----- Start adding Elements From here -----*/   
+// Below are some samples only   
+// Start with .nightmode followed by element(class or id) {their_properties}   
+.nightmode{background:#15202B;color:rgba(255,255,255,.7)}  
+.nightmode #outer-wrapper,.nightmode #sidebar-wrapper{background:#323232;color:#fff!important}  
+  
+/* ---   Add More Elements --- */ 
+      
+.nightmode .header-menu {
+    background: #2B2B2B;
+    color: #fff!important
+}
+.nightmode .header-menu a,
+.nightmode .header-menu span {
+    color: #EEEEEE!important
+}
+
+.nightmode #outer-wrapper,
+.nightmode #sidebar-wrapper {
+    background: #323232;
+    color: #fff!important
+}
+.nightmode #PopularPosts1,
+.nightmode #Label3,
+.nightmode #Label1 {
+    background: #323232;
+}
+.nightmode #PopularPosts1 a,
+.nightmode #PopularPosts1 .title,
+.nightmode #Label1 a,
+.nightmode #Label3 a,
+.nightmode #Label1 .title,
+.nightmode #Label3 .title  {
+    color: #eeeeee!important
+}
+.nightmode .post-body h1,
+.nightmode .post-body h2,
+.nightmode .post-body h3,
+.nightmode .post-body h4,
+.nightmode .post-title,
+.nightmode .index-post .post-info &gt; h2 &gt; a {
+    color: #fff!important
+}
+
+      
+      
+
+.nightmode .recent-comments .rc_block:before{border-color:rgb(29,29,29) rgb(29,29,29) transparent transparent}
+.nightmode .recent-comments .rc_block{border:1px solid #1d1d1d}
+.nightmode #comments .comment .comment-block:before{border-right:20px solid #1d1d1d}
+.nightmode .post-button-container a.post-button,.night .emoticon-label,.night .keywords a,.night .comments-label,.night .reaction-hover .reaction-label{background-color:#f7f7f7}
+.nightmode .nread{border-bottom:1px solid #323232;border-top:1px solid #323232}
+.nightmode .sidebar-wrapper h3 span,.night #related-posts h3 span,.night .breadcrumbs h3 span{background:#252525;color:#ddd}
+.nightmode #related-posts h3:before,.night .sidebar-wrapper h3:before,.night .breadcrumbs h3:before{background-image:-webkit-linear-gradient(left,#ddd,#ddd)}
+.nightmode .PopularPosts ul li{border-bottom:1px dashed #323232}
+.nightmode .PopularPosts ul li:last-child{border:0;padding:0;margin:0}
+.nightmode .post-body h3{color:#d5d874}
+.nightmode .table &gt; tbody &gt; tr:nth-of-type(odd){background-color:#232323}
+.nightmode .table &gt; thead &gt; tr &gt; th{background-color:rgba(230,230,230,.1)}
+.nightmode #backer .list-label-widget-content li:hover,.night .dds-menu ul li a:hover,.night .au-menu ul li:hover{background:rgba(255,255,255,.1)}
+.nightmode #backer .list-label-widget-content .list-item ul,.night #backer .search input,.night #comments ol li.comment,.night .comment-form{border-bottom:1px solid rgba(255,255,255,.1)}
+.nightmode .show-posts .load-posts,.night .load-more a{background:rgba(0,0,0,0.4);color:#ddd;border:1px solid #151515}
+.nightmode .post-body h2{color:#d5d874;border-top:1px solid #484848}
+.nightmode .post-body h2:after{background:#d5d874}
+.nightmode .post-body h2:hover{border-top:1px solid #d5d874}
+.nightmode .post-body h2:hover:after{width:100%;background:#252525}
+.nightmode .btn-popup-container{background:#252525}
+.nightmode .blanterinput input,.night .blanterinput textarea{border-bottom:1px solid #444444;background:#252525;color:#bbb}
+.nightmode .blanterinput input:focus~label,.night .blanterinput input:valid~label,.night .blanterinput textarea:focus~label,.night .blanterinput textarea:valid~label{color:#d5d874}
+.nightmode input#ContactForm1_contact-form-submit,.night .buttonBlue{color:#ddd;background:#d5d874}
+.nightmode .comments .svg-24{fill:#ddd}
+.nightmode .g-profile{color:#ebedf0}
+.nightmode .post-author svg{fill:#bbb}
+.nightmode #backer .list-label-widget-content .note li,.night #backer .list-label-widget-content li a i,.night #backer .list-label-widget-content svg{background:rgba(230,230,230,.1);color:#ddd;fill:#ccc}
+.nightmode .toggle-list .slider:before{box-shadow:0 1px 5px 0 rgb(76,76,76)}
+.nightmode.list input[type=checkbox]+.toggle-list .slider:before{box-shadow:0 1px 5px 0 rgba(255,255,255,0.6)!important}
+.nightmode .thumb_loading{background:#222 url(//startinhit.github.io/photo/loading.svg) center center no-repeat}
+.nightmode #backer .list-label-widget-content .search{background:#1d1d1d}
+.nightmode #comments .comment-actions a{color:#ddd;background:#555;border:1px solid #222}
+.nightmode #comments .comment-actions a:hover{color:#bcbf4c!important}
+.nightmode #comments ol.thread-expanded{border-left:1px solid rgba(255,255,255,.1)}
+.nightmode .post-body a{color:#d5d874}
+.nightmode .post-body a:hover{color:#33a1f5}
+.nightmode div.menu-top-startinhit a:hover,.night .tb button.dropsss:hover,.night #backer .Label button:hover,.night .dds button.dropdwn:hover{background:rgba(255,255,255,.07)}
+.nightmode div#menu-top-startinhit{background:rgba(0,0,0,.2)}
+.nightmode .post-body .post-info{color:#ffffff;background-color:#1f1f1f;border:1px solid #171717}
+.nightmode .post-body .post-info:hover{border-color:#00a26d}
+      
+      
+    body.nightmode #header-container{background:#000e29}body.nightmode .box-wrapper{background-color:#000e29}body.nightmode #wrapper{background:#1d2129}body.nightmode #HTML3{background:#1d2129}body.nightmode #footer-widget-container{background:#1d2129}body.nightmode .share-this-pleaseeeee{background:#292e38}body.nightmode .related-post h4{background:#000000}body.nightmode #label-info-th{background:#1d2129}body.nightmode body{background:#15191f}body.nightmode .post-body{color:#ccc}body.nightmode #baca-juga h2{color:#eee;background:#002d94}body.nightmode .label-info-th a{color:#ccc;background:#3d4658}body.nightmode li.recent-posts a{color:#ccc}body.nightmode .recent-posts-title h2{color:#ccc}body.nightmode .Recent_Post_Mas_Tamvan .recent-post-mas-tamvan span.mastamvan_title a{color:#ccc}body.nightmode .post-info{color:#ccc}body.nightmode{background:#1d2129}body.nightmode h2.post-title a{color:#9e9e9e}body.nightmode h2.post-title a:hover{color:#f17f43}body.nightmode .post-title{color:#1e90ff}body.nightmode ul.nav-social{color:#1d2129}body.nightmode .post-snippet{color:#ccc}body.nightmode #Label1{background:#292e38}body.nightmode .blog-posts .post-outer .post{background:#292e38;border-bottom-color:#252a33}body.nightmode .PopularPosts h2{background:#343944}body.nightmode .latest-post-title h2{background:#292e38;border-bottom-color:#313640}body.nightmode .newspaptext{color:#9e9e9e}body.nightmode .PopularPosts h2 span{color:#9e9e9e}body.nightmode .list-label-widget-content ul li{border-bottom-color:#313640}body.nightmode .img-thumbnail img{background:#252931 linear-gradient(to right,rgba(255,255,255,0) 5%,#313640 20%,rgba(255,255,255,0) 30%);background-size:800px 104px}body.nightmode #footer-container{background:#12161f}body.nightmode #footer-navmenu{background:#171b25}body.nightmode .sidebar h2{color:#b7b7b7;border-bottom-color:#313640}body.nightmode .sidebar-sticky h2{color:#f9f9f9;border-bottom-color:#213040}body.nightmode .latest-post-title h2{color:#b7b7b7;border-bottom-color:#313640}body.nightmode .above-post-widget h2{color:#b7b7b7;border-bottom-color:#313640}body.nightmode .comments h3{color:#fff;background:#1d2129;border-bottom-color:#313640}body.nightmode .breadcrumbs{color:#b7b7b7;border-bottom-color:#313640}body.nightmode .btnsocialshare{background:#383c44}body.nightmode .label-line::before{background:#1d2129}body.nightmode .label-line-c::before{background:#333740}body.nightmode a.showcontent:hover{background:#373a42}body.nightmode a.showcontent{background:#292e38}body.nightmode #ignielNewsletter input{background:#272b33;border-color:#2b303a}body.nightmode .comments .comments-content .comment-content{color:#fff}body.nightmode div#Label1 h2{border-bottom:1px solid #272b33;background:#343944}body.nightmode .related-post-style-3 .related-post-item-title{color:#bbb}body.nightmode #baca-juga ul{border:2px solid #002d94}body.nightmode #baca-juga h2{border:2px solid #292e38}body.nightmode #comments a.hiddencontent{background:#424854}body.nightmode .comments .comments-content .comment-thread ol{background:#292e38}body.nightmode .comments .comments-content .inline-thread{background:#292e38}body.nightmode .s-view{background:#213040;color:#f7f7f7;transition:all .5s ease}body.nightmode .listgrid{background:#292e38}body.nightmode .popular-posts{background:#1d2129}body.nightmode .PopularPosts .widget-content ul li a{color:#ccc}body.nightmode .breadcrumbs a{color:#eee}body.nightmode .breadcrumbs-outer{border:1px solid #002d94;background:#292e38}body.nightmode #ignielRelated h3.title{background:#292e38}body.nightmode #na-wrapper{background:#1d2129}body.nightmode #footer{background:#292e38}body.nightmode .footer-fancy-shape .footer-fancy-shape-fill{fill:#292e38}body.nightmode #invertsubs-subs .emailfield .submitbutton{background:#343944;color:#fff;box-shadow:0 10px 20px -10px rgba(0,0,0,.1)} body.nightmode .bawah-gelombang {fill: #1d2129;}  
+      
+      body.nightmode .widget-content
+      
+      {background-color:#000000;}
+      
