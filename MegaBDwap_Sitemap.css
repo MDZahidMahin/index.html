@@ -1,0 +1,38 @@
+.arpian-sitemap {margin:0 auto;background-color:#2f77bd;box-shadow: 0 0 7px rgba(5, 5, 5, 0.34);overflow:hidden;
+position:relative;color:#333;border: 1px solid #9C9C9C;}
+.arpian-sitemap .loading {display:block;padding:10px 12px;font:normal bold 12px/normal Helmet,Poppins,Sans-Serif;
+color:white;}
+.arpian-sitemap ul,.arpian-sitemap ol,.arpian-sitemap li {margin:0;padding:0;list-style:none;}
+.arpian-sitemap .sitemap-tabs {width:20%;float:left;}
+.arpian-sitemap .sitemap-tabs li a {display:block;font:normal bold 12px/28px Helmet,Poppins,Sans-Serif;overflow:hidden;text-overflow:ellipsis;color:#fff;text-transform:uppercase;text-decoration:none;
+padding:7px 15px;cursor:pointer;box-shadow: 0px 1px 1px rgb(255, 255, 255);}
+.arpian-sitemap .sitemap-tabs li a:hover {background-color:#4086E0;color:white;box-shadow: 0 0 7px rgba(0,0,0,.7);}
+.arpian-sitemap .sitemap-tabs li a.active-tab {background-color:#FFF;color:black;box-shadow: 0 0 7px rgba(0,0,0,.7);
+z-index:5;margin:0 -1px 0 0;/* cursor:text; */}
+.arpian-sitemap .sitemap-content,.arpian-sitemap .sitemap-line {width:80%;float:right;background-color:white;border-left:5px solid #1E84BC;box-sizing:border-box;}
+.arpian-sitemap .sitemap-line {float:none;display:block;position:absolute;top:0;right:0;bottom:0;box-shadow:0 0 7px rgba(0,0,0,.7);}
+.arpian-sitemap .panel {position:relative;z-index:5;font:normal normal 10px/normal Helmet,Poppins,Sans-Serif;}
+.arpian-sitemap .panel li a {display:block;position:relative;font-weight:bold;font-size:12px;color:#000;line-height:20px;padding: 10px 12px;
+text-decoration:none;outline:none;overflow:hidden;}
+.arpian-sitemap .panel li time {display:block;font-style:italic;font-weight:normal;font-size:10px;color:#666;float:right;}
+.arpian-sitemap .panel li .summary {display:block;padding:10px 12px 10px;font-style:italic;
+border-bottom:4px solid #05A6F7;overflow:hidden;}
+.arpian-sitemap .panel li .summary img.thumbnail {float:left;display:block;margin:0 8px 0 0;padding:4px;
+width:72px;height:72px;border:1px solid #dcdcdc;background-color:#fafafa;}
+.arpian-sitemap .panel li:nth-child(even) {background-color:#fff}
+.arpian-sitemap .panel li a:hover,.arpian-sitemap .panel li a:focus,.arpian-sitemap .panel li a:hover time,.arpian-sitemap .panel li.bold a {
+background-color:#333;color:white;outline:none;}
+.arpian-sitemap .panel li.bold a:hover,
+.arpian-sitemap .panel li.bold a:hover time {background-color:#222}
+.post ol li::before {content: none;}
+.post ol li {margin:0;}
+@media (max-width:700px) {
+.arpian-sitemap {border:2px solid #333}
+.arpian-sitemap .sitemap-tabs,.arpian-sitemap .sitemap-content {overflow:hidden;width:auto;float:none;display:block;}
+.arpian-sitemap .sitemap-tabs li {display:inline;float:left;}
+.arpian-sitemap .sitemap-tabs li a,.arpian-sitemap .sitemap-tabs li a.active-tab {background-color:#F0F9FD;box-shadow:2px 0 7px rgba(0,0,0,.4);color:#000}
+.arpian-sitemap .sitemap-tabs li a.active-tab {background-color:white;color:#333;}
+.arpian-sitemap .sitemap-content {border:none}
+.arpian-sitemap .sitemap-line,
+.arpian-sitemap .panel li time {display:none}
+.arpian-sitemap .panel li a{height: auto;}
